@@ -1,6 +1,6 @@
 ---
 layout: category
 title: Space Wolves
-category: Space Wolves
+category: spacewolves
 permalink: /space-wolves
 ---
