@@ -3,7 +3,7 @@ name: 'Ulfhednar Miniatures'
 description: 'Where paint meets plastic... sometimes.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/apple-touch-icon-180x180-precomposed.png'
-irl: 'https://ulfhednar-asn.github.io'
+url: 'https://ulfhednar-asn.github.io'
 baseurl: '/'
 
 include: ["_pages"]
