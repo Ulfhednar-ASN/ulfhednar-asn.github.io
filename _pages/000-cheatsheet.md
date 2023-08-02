@@ -6,6 +6,8 @@ Books - Coming Soon
 
 *This is a test of the MD-block plugin implementation.*
 
+Cheatsheet sourced from [Markdownguide.org](https://www.markdownguide.org/basic-syntax/)
+
 * The code was implemented in the /_includes/tracking-header.html file.
 
 # This is a size 1 header.
